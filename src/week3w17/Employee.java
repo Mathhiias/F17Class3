@@ -65,5 +65,5 @@ public abstract class Employee {
         return sinNum;
     }
     
-    public abstract getPayCheck();
+    public abstract PayCheque getPayCheck();
 }
